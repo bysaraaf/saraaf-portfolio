@@ -1,0 +1,9 @@
+PORTFOLIO SARAFINA — VERSION CORRIGÉE
+
+Le ZIP contient la page d’accueil index.html, le portfolio portfolio.html, le média kit mediakit.html, les photos et les huit vidéos.
+
+Décompressez le ZIP, puis importez l’ensemble des fichiers et le dossier assets à la racine de votre site. Conservez la structure des dossiers.
+
+Pour un aperçu sur ordinateur, ouvrez index.html après décompression.
+
+Les vidéos sont intégrées directement : aucun compte ChatGPT et aucun lien YouTube ne sont nécessaires.
